@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="meishi_shinsei" max_length="40" name="x_snc_meishi_meishi_shinsei" sizeclass="1" type="collection">
+        <element label="Test" max_length="32" name="test" reference="sys_user" type="reference"/>
+    </element>
+</database>
