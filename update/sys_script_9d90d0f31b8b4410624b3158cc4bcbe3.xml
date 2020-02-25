@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>false</action_insert>
+        <action_query>false</action_query>
+        <action_update>false</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection/>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Test6</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	// ビジュアルスタジオ
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>daniel.brewitt</sys_created_by>
+        <sys_created_on>2020-02-25 06:56:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9d90d0f31b8b4410624b3158cc4bcbe3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test6</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="名刺申請" source="x_snc_meishi">37de9fa9db356b00de299ea3db96191a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="名刺申請">37de9fa9db356b00de299ea3db96191a</sys_scope>
+        <sys_update_name>sys_script_9d90d0f31b8b4410624b3158cc4bcbe3</sys_update_name>
+        <sys_updated_by>daniel.brewitt</sys_updated_by>
+        <sys_updated_on>2020-02-25 06:56:30</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=9d90d0f31b8b4410624b3158cc4bcbe3"/>
+</record_update>
